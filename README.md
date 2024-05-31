@@ -5,26 +5,46 @@ Breadth-First Search (BFS)
 Uniform Cost Search
 A* Search
 
-Usage:
+Download and Execution Instructions:
+Prerequisites:
+Java Development Kit (JDK) installed on your system
+IntelliJ IDEA or any compatible IDE for Java development
+Git for cloning the repository
+
+Steps:
 
 Clone the Repository:
 
-git clone <repository_url>
+Open your terminal, command prompt, or Git Bash.
+Navigate to the directory where you want to clone the repository:
+cd /desired/directory/path
 
-Compile the Code:
+Clone the repository using the following command:
 
-Navigate to the project directory and compile the Java source files:
+git clone https://github.com/CristinaMihai16/HA_Mihai_Cristina_CR2.2B.git
+Open the Project in IntelliJ IDEA:
 
-cd TSPSolver
-javac *.java
+Open IntelliJ IDEA.
+Select "Open" from the welcome screen or go to "File > Open" from the menu.
+Navigate to the directory where you cloned the repository and select it.
+IntelliJ IDEA should recognize the project and load it.
 
-Run the Application:
-Execute the Main class to run the TSP solver:
+Build and Run the Project:
 
+Once the project is open in IntelliJ IDEA, navigate to the main class file (e.g., Main.java).
+Right-click on the file and select "Run 'Main'" or press Shift + F10.
+Alternatively, you can compile and run the project manually using the terminal:
+
+javac Main.java
 java Main
 
-View Results:
-The application will display the best paths found by each algorithm along with their total costs.
+Follow Application Prompts:
+
+Depending on the application logic, you may need to provide input or make selections as prompted by the application.
+
+View Output:
+
+After running the application, view the output in the console. The application should display the best paths found by different algorithms along with their total costs.
 
 Contributors:
 Mihai Cristina Florentina
