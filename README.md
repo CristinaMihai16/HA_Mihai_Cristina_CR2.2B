@@ -6,7 +6,9 @@ Uniform Cost Search
 A* Search
 
 Download and Execution Instructions:
+
 Prerequisites:
+
 Java Development Kit (JDK) installed on your system
 IntelliJ IDEA or any compatible IDE for Java development
 Git for cloning the repository
@@ -22,6 +24,7 @@ cd /desired/directory/path
 Clone the repository using the following command:
 
 git clone https://github.com/CristinaMihai16/HA_Mihai_Cristina_CR2.2B.git
+
 Open the Project in IntelliJ IDEA:
 
 Open IntelliJ IDEA.
